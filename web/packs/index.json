@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "spotty.json"
+  ],
+  "homeserver_url": "https://matrix.eternitytech.fun"
+}
